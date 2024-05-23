@@ -20,3 +20,9 @@ Run the Jupyter notebooks to explore different portfolio optimization techniques
 Customize the models and parameters as needed for specific use cases.
 Use the provided scripts to preprocess data, train models, and evaluate performance.
 
+# Contributing
+We welcome contributions! Please fork the repository and submit a pull request with your improvements.
+
+# License
+This project is licensed under the MIT License.
+
